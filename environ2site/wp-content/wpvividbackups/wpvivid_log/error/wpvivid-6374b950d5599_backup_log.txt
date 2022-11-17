@@ -1,0 +1,128 @@
+Log created: 2022-11-16 10:20:00
+Type: backup
+[2022-11-16 10:20:03][notice]Start backing up.
+[2022-11-16 10:20:03][notice]server info fcgi:Off max execution time: 900 wp version:6.1.1 php version:7.4.8 db version:5.5.5 php ini:safe_mode: memory_limit:128M memory_get_usage:93,42 Mo memory_get_peak_usage:94,84 Mo extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2022-11-16 10:20:03][notice]Prepare to backup backup_db files.
+[2022-11-16 10:20:03][notice]Start exporting database.
+[2022-11-16 10:20:03][notice]max_allowed_packet less than 32M :3,00 Mo
+[2022-11-16 10:20:03][notice]Preparing to dump table wptn_wpforms_tasks_meta
+[2022-11-16 10:20:03][notice]Preparing to dump table wptn_wpfm_backup
+[2022-11-16 10:20:03][notice]Preparing to dump table wptn_options
+[2022-11-16 10:20:11][notice]Preparing to dump table wptn_e_submissions
+[2022-11-16 10:20:11][notice]Preparing to dump table wptn_actionscheduler_logs
+[2022-11-16 10:20:12][notice]Preparing to dump table wptn_e_events
+[2022-11-16 10:20:12][notice]Preparing to dump table wptn_termmeta
+[2022-11-16 10:20:12][notice]Preparing to dump table wptn_posts
+[2022-11-16 10:20:14][notice]Preparing to dump table wptn_users
+[2022-11-16 10:20:14][notice]Preparing to dump table wptn_yoast_primary_term
+[2022-11-16 10:20:14][notice]Preparing to dump table wptn_commentmeta
+[2022-11-16 10:20:14][notice]Preparing to dump table wptn_wpvivid_options
+[2022-11-16 10:20:14][notice]Preparing to dump table wptn_e_submissions_values
+[2022-11-16 10:20:14][notice]Preparing to dump table wptn_yoast_migrations
+[2022-11-16 10:20:14][notice]Preparing to dump table wptn_comments
+[2022-11-16 10:20:14][notice]Preparing to dump table wptn_e_submissions_actions_log
+[2022-11-16 10:20:14][notice]Preparing to dump table wptn_yoast_indexable
+[2022-11-16 10:20:14][notice]Preparing to dump table wptn_wpmailsmtp_debug_events
+[2022-11-16 10:20:14][notice]Preparing to dump table wptn_actionscheduler_groups
+[2022-11-16 10:20:14][notice]Preparing to dump table wptn_postmeta
+[2022-11-16 10:20:20][notice]Preparing to dump table wptn_actionscheduler_actions
+[2022-11-16 10:20:20][notice]Preparing to dump table wptn_actionscheduler_claims
+[2022-11-16 10:20:20][notice]Preparing to dump table wptn_term_taxonomy
+[2022-11-16 10:20:20][notice]Preparing to dump table wptn_usermeta
+[2022-11-16 10:20:20][notice]Preparing to dump table wptn_terms
+[2022-11-16 10:20:20][notice]Preparing to dump table wptn_links
+[2022-11-16 10:20:20][notice]Preparing to dump table wptn_wpmailsmtp_tasks_meta
+[2022-11-16 10:20:20][notice]Preparing to dump table wptn_term_relationships
+[2022-11-16 10:20:20][notice]Preparing to dump table wptn_yoast_indexable_hierarchy
+[2022-11-16 10:20:20][notice]Preparing to dump table wptn_yoast_seo_links
+[2022-11-16 10:20:20][notice]Exporting database finished.
+[2022-11-16 10:20:20][notice]Start compressing backup_db
+[2022-11-16 10:20:20][notice]Prepare to zip files. file: siguiyoroenviron2.ml_wpvivid-6374b950d5599_2022-11-16-10-20_backup_db.zip
+[2022-11-16 10:20:35][notice]Adding zip files completed.siguiyoroenviron2.ml_wpvivid-6374b950d5599_2022-11-16-10-20_backup_db.zip, filesize: 15,12 Mo
+[2022-11-16 10:20:35][notice]Compressing backup_db completed
+[2022-11-16 10:20:35][notice]Backing up backup_db completed.
+[2022-11-16 10:20:35][notice]Prepare to backup backup_themes files.
+[2022-11-16 10:20:35][notice]File number: 680
+[2022-11-16 10:20:35][notice]Start compressing backup_themes
+[2022-11-16 10:20:35][notice]Prepare to zip files. file: siguiyoroenviron2.ml_wpvivid-6374b950d5599_2022-11-16-10-20_backup_themes.zip
+[2022-11-16 10:24:13][notice]Not responding for a long time.
+[2022-11-16 10:29:08][notice]Not responding for a long time.
+[2022-11-16 10:34:30][notice]Not responding for a long time.
+[2022-11-16 10:38:32][notice]Add resume event succeeded.. arg1:1668595172 arg2:wpvivid_resume_schedule_event arg3:wpvivid-6374b950d5599
+[2022-11-16 10:38:32][error]Tâche interrompue.
+[2022-11-16 10:46:37][notice]Start backing up.
+[2022-11-16 10:46:37][notice]server info fcgi:Off max execution time: 900 wp version:6.1.1 php version:7.4.8 db version:5.5.5 php ini:safe_mode: memory_limit:128M memory_get_usage:78,48 Mo memory_get_peak_usage:80,31 Mo extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2022-11-16 10:46:37][notice]Prepare to backup backup_themes files.
+[2022-11-16 10:46:37][notice]File number: 680
+[2022-11-16 10:46:37][notice]Start compressing backup_themes
+[2022-11-16 10:46:37][notice]Prepare to zip files. file: siguiyoroenviron2.ml_wpvivid-6374b950d5599_2022-11-16-10-20_backup_themes.zip
+[2022-11-16 10:47:29][notice]Adding zip files completed.siguiyoroenviron2.ml_wpvivid-6374b950d5599_2022-11-16-10-20_backup_themes.zip, filesize: 23,99 Mo
+[2022-11-16 10:47:29][notice]Compressing backup_themes completed
+[2022-11-16 10:47:29][notice]Backing up backup_themes completed.
+[2022-11-16 10:47:31][notice]Prepare to backup backup_plugin files.
+[2022-11-16 10:47:31][notice]File number: 17418
+[2022-11-16 10:47:31][notice]Start compressing backup_plugin
+[2022-11-16 10:47:33][notice]Prepare to zip files. file: siguiyoroenviron2.ml_wpvivid-6374b950d5599_2022-11-16-10-20_backup_plugin.zip
+[2022-11-16 10:51:15][notice]Not responding for a long time.
+[2022-11-16 10:57:03][notice]Not responding for a long time.
+[2022-11-16 11:01:05][notice]Not responding for a long time.
+[2022-11-16 11:06:04][notice]Add resume event succeeded.. arg1:1668596824 arg2:wpvivid_resume_schedule_event arg3:wpvivid-6374b950d5599
+[2022-11-16 11:06:04][error]Tâche interrompue.
+[2022-11-16 11:06:05][error]Missing resume task,so we create new one.
+[2022-11-16 11:06:05][notice]Add resume event succeeded.. arg1:1668596825 arg2:wpvivid_resume_schedule_event arg3:wpvivid-6374b950d5599
+[2022-11-16 11:08:04][notice]Start backing up.
+[2022-11-16 11:08:04][notice]server info fcgi:Off max execution time: 900 wp version:6.1.1 php version:7.4.8 db version:5.5.5 php ini:safe_mode: memory_limit:128M memory_get_usage:78,48 Mo memory_get_peak_usage:80,31 Mo extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2022-11-16 11:08:05][notice]Prepare to backup backup_plugin files.
+[2022-11-16 11:08:05][notice]File number: 17418
+[2022-11-16 11:08:05][notice]Start compressing backup_plugin
+[2022-11-16 11:08:06][notice]Prepare to zip files. file: siguiyoroenviron2.ml_wpvivid-6374b950d5599_2022-11-16-10-20_backup_plugin.zip
+[2022-11-16 11:13:04][notice]Not responding for a long time.
+[2022-11-16 11:16:05][notice]Not responding for a long time.
+[2022-11-16 11:22:04][notice]Not responding for a long time.
+[2022-11-16 11:28:04][notice]Add resume event succeeded.. arg1:1668598144 arg2:wpvivid_resume_schedule_event arg3:wpvivid-6374b950d5599
+[2022-11-16 11:28:04][error]Tâche interrompue.
+[2022-11-16 11:28:05][error]Missing resume task,so we create new one.
+[2022-11-16 11:28:05][notice]Add resume event succeeded.. arg1:1668598145 arg2:wpvivid_resume_schedule_event arg3:wpvivid-6374b950d5599
+[2022-11-16 11:30:05][notice]Start backing up.
+[2022-11-16 11:30:05][notice]server info fcgi:Off max execution time: 900 wp version:6.1.1 php version:7.4.8 db version:5.5.5 php ini:safe_mode: memory_limit:128M memory_get_usage:78,48 Mo memory_get_peak_usage:80,31 Mo extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2022-11-16 11:30:05][notice]Prepare to backup backup_plugin files.
+[2022-11-16 11:30:05][notice]File number: 17418
+[2022-11-16 11:30:05][notice]Start compressing backup_plugin
+[2022-11-16 11:30:08][notice]Prepare to zip files. file: siguiyoroenviron2.ml_wpvivid-6374b950d5599_2022-11-16-10-20_backup_plugin.zip
+[2022-11-16 11:35:04][notice]Not responding for a long time.
+[2022-11-16 11:38:35][notice]Not responding for a long time.
+[2022-11-16 11:42:56][notice]Not responding for a long time.
+[2022-11-16 11:47:57][notice]Add resume event succeeded.. arg1:1668599337 arg2:wpvivid_resume_schedule_event arg3:wpvivid-6374b950d5599
+[2022-11-16 11:47:57][error]Tâche interrompue.
+[2022-11-16 11:49:16][notice]Start backing up.
+[2022-11-16 11:49:16][notice]server info fcgi:Off max execution time: 900 wp version:6.1.1 php version:7.4.8 db version:5.5.5 php ini:safe_mode: memory_limit:128M memory_get_usage:81,77 Mo memory_get_peak_usage:81,86 Mo extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2022-11-16 11:49:17][notice]Prepare to backup backup_plugin files.
+[2022-11-16 11:49:17][notice]File number: 18583
+[2022-11-16 11:49:17][notice]Start compressing backup_plugin
+[2022-11-16 11:49:19][notice]Prepare to zip files. file: siguiyoroenviron2.ml_wpvivid-6374b950d5599_2022-11-16-10-20_backup_plugin.zip
+[2022-11-16 11:54:17][notice]Not responding for a long time.
+[2022-11-16 11:58:20][notice]Not responding for a long time.
+[2022-11-16 12:02:21][notice]Not responding for a long time.
+[2022-11-16 12:06:24][notice]Add resume event succeeded.. arg1:1668600444 arg2:wpvivid_resume_schedule_event arg3:wpvivid-6374b950d5599
+[2022-11-16 12:06:24][error]Tâche interrompue.
+[2022-11-16 12:08:25][notice]Start backing up.
+[2022-11-16 12:08:25][notice]server info fcgi:Off max execution time: 900 wp version:6.1.1 php version:7.4.8 db version:5.5.5 php ini:safe_mode: memory_limit:128M memory_get_usage:81,78 Mo memory_get_peak_usage:83,62 Mo extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2022-11-16 12:08:25][notice]Prepare to backup backup_plugin files.
+[2022-11-16 12:08:25][notice]File number: 18583
+[2022-11-16 12:08:25][notice]Start compressing backup_plugin
+[2022-11-16 12:08:27][notice]Prepare to zip files. file: siguiyoroenviron2.ml_wpvivid-6374b950d5599_2022-11-16-10-20_backup_plugin.zip
+[2022-11-16 12:13:29][notice]Not responding for a long time.
+[2022-11-16 12:17:48][notice]Not responding for a long time.
+[2022-11-16 12:20:49][notice]Not responding for a long time.
+[2022-11-16 12:25:54][notice]Add resume event succeeded.. arg1:1668601614 arg2:wpvivid_resume_schedule_event arg3:wpvivid-6374b950d5599
+[2022-11-16 12:25:54][error]Tâche interrompue.
+[2022-11-16 12:27:00][notice]Start backing up.
+[2022-11-16 12:27:00][notice]server info fcgi:Off max execution time: 900 wp version:6.1.1 php version:7.4.8 db version:5.5.5 php ini:safe_mode: memory_limit:128M memory_get_usage:81,78 Mo memory_get_peak_usage:83,62 Mo extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2022-11-16 12:27:00][notice]Prepare to backup backup_plugin files.
+[2022-11-16 12:27:00][notice]File number: 18583
+[2022-11-16 12:27:00][notice]Start compressing backup_plugin
+[2022-11-16 12:27:02][notice]Prepare to zip files. file: siguiyoroenviron2.ml_wpvivid-6374b950d5599_2022-11-16-10-20_backup_plugin.zip
+[2022-11-16 12:32:56][notice]Not responding for a long time.
+[2022-11-16 12:36:58][notice]Not responding for a long time.
+[2022-11-16 12:42:00][notice]Not responding for a long time.
+[2022-11-16 12:45:40][error]Trop de tentatives de reprise.
